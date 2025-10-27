@@ -3,7 +3,7 @@
 ### Universidad Tecnológica de Panamá  
 **Facultad de Sistemas Computacionales – Licenciatura en Ingeniería de Software**  
 **Curso:** Ingeniería Web  
-**Estudiante:** Jose Bustamante – 8-1011-1717  
+**Estudiante:** Jose Bustamante – 8-1011-1717, Abigail Koo - 8-997-974  
 **Facilitador:** Irina Fong  
 **Grupo:** 1SF131  
 **Año:** 2025  
